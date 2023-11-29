@@ -22,7 +22,10 @@ class PassGen:
     def Iniciar(self):
         while True:
             evento, valores = self.janela.read()
-            if evento == sg.WINDOW_CLOSED or evento == 'Close':
+            if evento == sg.WINDOW_CLOSED:
+                break
+            if evento == 'Close':
+                sg.popup('Obrigado por usar! :)', pad=(10, 0))
                 break
             
             if evento == 'Gerar Senha':
