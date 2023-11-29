@@ -25,7 +25,7 @@ class PassGen:
             if evento == sg.WINDOW_CLOSED:
                 break
             if evento == 'Close':
-                sg.popup('Obrigado por usar! :)', pad=(10, 0))
+                sg.popup('Obrigado por usar! :)')
                 break
             
             if evento == 'Gerar Senha':

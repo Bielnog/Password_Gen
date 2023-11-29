@@ -1,4 +1,4 @@
-('C:\\Users\\biels\\Desktop\\GeradorSenha\\build\\password_gen\\PYZ-00.pyz',
+('C:\\Users\\biels\\Desktop\\RepoGit\\GeradorSenha\\build\\password_gen\\PYZ-00.pyz',
  [('PySimpleGUI',
    'C:\\Users\\biels\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PySimpleGUI\\__init__.py',
    'PYMODULE'),
